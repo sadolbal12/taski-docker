@@ -1,0 +1,5 @@
+# Файл .dockerignore
+node_modules
+build
+.env
+venv
